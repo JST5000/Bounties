@@ -1,3 +1,7 @@
+<!-- Please update this title -->
+
+# Proposal Title
+
 ## High Level Description
 
 <!--
