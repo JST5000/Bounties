@@ -14,14 +14,6 @@ Recommend a total value amount for the bounty, in U.S. Dollars. The exact amount
 
 Amount: $
 
-### Audience
-
-<!--
-Please list a couple bullets describing the target audience of this bounty.
-
-Ex. First time XRPL builders, experienced XRPL builders, industry experts, etc.
--->
-
 ### Full Description
 
 <!--
@@ -31,6 +23,13 @@ Questions you should answer here:
 1. What problem is this solving?
 2. How will they know if they solved the problem well?
 3. What are the requirements for this solution?
+
+If there are smaller milestones with individual awards, please include them here with the following template:
+
+| # | High-Level Description | Details | Proposed Potential Award |
+| 1 | ... | ... | $... |
+
+(The proposed amounts from milestones should add up to the amount listed at the top of the bounty proposal)
 -->
 
 ## Helpful links/resources
